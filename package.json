@@ -1,0 +1,16 @@
+{
+  "name": "backend-app",
+  "version": "1.0.0",
+  "description": "A Projrct Manged By Muhammad Muzammil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "node",
+    "project"
+  ],
+  "author": "muhammad muzammil",
+  "license": "ISC"
+}
